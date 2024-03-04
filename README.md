@@ -3,7 +3,7 @@
 ## Команда проета
 - Кирилл Кравцов ([Telegram](https://t.me/killreal777), [GitHub](https://github.com/killreal777))
 - Василиса Абаева
-- Александр Каргин
+- Александр Каргин([Telegram]https://t.me/Hokure04), [GitHub](https://github.com/Hokure04)
 - Юрий Швединский
 - Илья Эккерт
 
